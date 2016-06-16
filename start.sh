@@ -8,4 +8,5 @@
                 --upscript=${UCARP_UPSCRIPT} \
                 --downscript=${UCARP_DOWNSCRIPT} \
                 --xparam=${UCARP_VIRTUALPREFIX} \
+                --nomcast \
                 ${UCARP_OPTS}
